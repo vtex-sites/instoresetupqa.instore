@@ -1,6 +1,1 @@
-module.exports = {
-    platform: 'vtex',
-    experimental: {
-        nodeVersion: 14,
-    }
-  }
+module.exports = {}
